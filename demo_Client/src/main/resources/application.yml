@@ -1,0 +1,10 @@
+server:
+  port: 8083
+  
+endpoints:
+  restart:
+    enabled: true
+    
+spring:
+  application:
+    name: DinerClient
