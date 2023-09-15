@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "demo-range",
+      "type": "com.example.demo.Configuration",
+      "sourceType": "com.example.demo.Configuration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "demo-range.maximum",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.demo.Configuration"
+    },
+    {
+      "name": "demo-range.minimum",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.demo.Configuration"
+    }
+  ],
+  "hints": []
+}
