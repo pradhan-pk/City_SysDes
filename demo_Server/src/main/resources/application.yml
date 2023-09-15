@@ -1,0 +1,10 @@
+server:
+  port: 8081
+  
+endpoints:
+  restart:
+    enabled: true
+
+spring:
+  application:
+    name: diner

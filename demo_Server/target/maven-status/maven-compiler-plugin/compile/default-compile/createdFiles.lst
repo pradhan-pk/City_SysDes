@@ -1,0 +1,4 @@
+com\example\demo\DinerController.class
+com\example\demo\TrivialDinerRequest.class
+com\example\demo\TrivialDinerResponse.class
+com\example\demo\DemoServerApplication.class
